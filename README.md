@@ -52,3 +52,25 @@ Here are some ideas to get you started:
   <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
  </p>
+
+#### Monitoring 
+   
+  <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
+  </p>
+ 
+ #### Package Managers 
+ 
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
+ </p>
+ 
+#### CI/CD
+
+   <p float="left">
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+ </p>
+ 
