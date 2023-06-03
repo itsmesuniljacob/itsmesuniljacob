@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  
  <p float="left">
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+   <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
  </p>
  
  #### Containerization and Orchestration
