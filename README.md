@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Github profile
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsmesuniljacob)](https://github.com/itsmesuniljacob)
 [![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=itsmesuniljacob&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/itsmesuniljacob)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesuniljacob&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/itsmesuniljacob)
 
